@@ -53,7 +53,7 @@ const FooterHome = styled.section`
   
     width:1100px;
     display: block;
-    margin:60px 30px 0px 200px;
+    margin:60px 30px 0px 150px;
     height:100%;
 
   
